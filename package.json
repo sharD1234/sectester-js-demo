@@ -64,7 +64,7 @@
     "@mikro-orm/migrations": "^5.6.6",
     "@mikro-orm/nestjs": "^5.1.8",
     "@mikro-orm/postgresql": "^5.6.6",
-    "@nestjs/common": "^9.4.0",
+    "@nestjs/common": "^11.0.16",
     "@nestjs/config": "^2.3.1",
     "@nestjs/core": "^9.4.0",
     "@nestjs/platform-express": "^9.4.0",
